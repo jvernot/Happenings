@@ -1,4 +1,4 @@
-# Whats Happening
+# Happenings
 
 [![Deployed](https://img.shields.io/website?down_color=lightgrey&down_message=Offline%20for%20Maintenance&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fwhat-happenings.herokuapp.com%2F)](https://what-happenings.herokuapp.com/)
 [![Contributors](https://img.shields.io/github/contributors/saunderseddie/happenings?color=yellow&style=plastic)](https://github.com/SaundersEddie/Happenings)
@@ -9,12 +9,13 @@
 [![Repo Languages](https://img.shields.io/github/languages/count/SaundersEddie/Happenings?color=red&style=plastic)](https://github.com/SaundersEddie/Happenings)
 [![Main Repo Language](https://img.shields.io/github/languages/top/SaundersEddie/Happenings?color=blueviolet&style=plastic)](https://github.com/SaundersEddie/Happenings)
 
-A small web based app allowing a user to review and create quickinfo about locations they have visited.
+![Eat Da Burger App](/public/Happenings.png)
+
+The Happenings App allows you to catch up with your friends and family. This social-media-like app lets you tell them where you are, what you are up to around town, and if it's worth checking out for themselves. Happenings is a full-stack application built using the MERN Stack.
 
 # Table of Contents
 
 - [User Story](#User-Story)
-- [Build Status](#Build-Status)
 - [Technology](#Technology)
 - [Use](#Use)
 - [Credits](#Credits)
@@ -23,17 +24,17 @@ A small web based app allowing a user to review and create quickinfo about locat
 
 # User Story
 
-# Build Status
-
-Complete as of 3rd August 2020
+As a user, I want to be able to easily share what I am doing as well as a review of the place I am at. I should be able to easily view and interact with nearby friends' posts in a map and a feed element.
 
 # Technology
 
-* HTML5
-* CSS3
-* [Bulma CSS Framework](https://bulma.io/)
-* [Mapbox with React-map-gl](https://github.com/visgl/react-map-gl)
-* React
+Happenings is a full-stack app built using the MERN Stack, therefore the main technologies used were MongoDB, Express.js, React, and Node.js. Other technologies used in the application included
+
+- HTML5
+- CSS3
+- [Bulma CSS Framework](https://bulma.io/)
+- [Mapbox with React-map-gl](https://github.com/visgl/react-map-gl)
+- [Here API](https://developer.here.com/)
 
 # Use
 
